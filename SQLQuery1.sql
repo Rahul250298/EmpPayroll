@@ -8,5 +8,5 @@ create Table employee_payroll(
  id int identity(1,1) primary key,
  name varchar(100),
  salary float,
- startdate date,
+ startdate date, 
 );
